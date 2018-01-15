@@ -132,7 +132,7 @@ var currentAtNewsfeed = new Animation(tab.newsFeed,
 // 點擊探索動畫
 var tabtoDiscover = new Animation(tab.indicator, {
 	width: base.deviceWidth/3,
-	x: 0
+	x: 0,
 });
 
 var currentAtDiscover = new Animation(tab.discover, 
